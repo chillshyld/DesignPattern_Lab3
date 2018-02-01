@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01e1fc24-7b3f-45fa-bb57-d1adb5246402" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NJSlotBonus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NJSlotProgressive.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NJSlotStore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NJSlotStraight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NVSlotBonus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NVSlotProgressive.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NVSlotStore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/NVSlotStraight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/Slot.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/SlotStore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/TestSlots.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/WTSlotBonus.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/WTSlotProgressive.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/WTSlotStore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/WTSlotStraight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Factory/slottype.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/ChicagoPizzaStore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/ChicagoStyleCheesePizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/ChicagoStyleClamPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/ChicagoStylePepperoniPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/ChicagoStyleVeggiePizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/DependentPizzaStore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/NYPizzaStore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/NYStyleCheesePizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/NYStyleClamPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/NYStylePepperoniPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/NYStyleVeggiePizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/Pizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/PizzaStore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectFactory/PizzaTestDrive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/CheesePizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/ClamPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/PepperoniPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/Pizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/PizzaStore.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/PizzaTestDrive.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/SimplePizzaFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LectSimpleFactory/VeggiePizza.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,201 +36,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestSlots.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/TestSlots.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WTSlotBonus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/WTSlotBonus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Slot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/Slot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WTSlotProgressive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/WTSlotProgressive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WTSlotStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/WTSlotStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NVSlotProgressive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/NVSlotProgressive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NVSlotBonus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/NVSlotBonus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/Factory" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/Factory">
+      <file leaf-file-name="JAVA/LectSimpleFactory" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/LectSimpleFactory">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
-              <OriginalElement>Factory</OriginalElement>
+              <OriginalElement>LectSimpleFactory</OriginalElement>
               <nodes>
-                <node x="496.0" y="353.0">Factory.NJSlotStraight</node>
-                <node x="807.0" y="353.0">Factory.NVSlotStraight</node>
-                <node x="654.0" y="353.0">Factory.WTSlotBonus</node>
-                <node x="1116.0" y="353.0">Factory.WTSlotProgressive</node>
-                <node x="464.0" y="561.0">Factory.NVSlotStore</node>
-                <node x="721.0" y="438.0">Factory.slottype</node>
-                <node x="876.0" y="438.0">Factory.TestSlots</node>
-                <node x="1301.0" y="342.0">Factory.NJSlotProgressive</node>
-                <node x="232.0" y="561.0">Factory.NJSlotStore</node>
-                <node x="618.0" y="0.0">Factory.Slot</node>
-                <node x="0.0" y="561.0">Factory.WTSlotStore</node>
-                <node x="162.0" y="353.0">Factory.NVSlotProgressive</node>
-                <node x="345.0" y="353.0">Factory.NVSlotBonus</node>
-                <node x="967.0" y="353.0">Factory.NJSlotBonus</node>
-                <node x="231.5" y="438.0">Factory.SlotStore</node>
-                <node x="0.0" y="353.0">Factory.WTSlotStraight</node>
+                <node x="23.052462121212216" y="119.0">LectSimpleFactory.PepperoniPizza</node>
+                <node x="259.7333806818183" y="0.0">LectSimpleFactory.Pizza</node>
+                <node x="185.05246212121222" y="119.0">LectSimpleFactory.ClamPizza</node>
+                <node x="289.2727272727273" y="198.0">LectSimpleFactory.SimplePizzaFactory</node>
+                <node x="460.0524621212122" y="119.0">LectSimpleFactory.VeggiePizza</node>
+                <node x="292.5227272727273" y="366.0">LectSimpleFactory.PizzaTestDrive</node>
+                <node x="175.05402462121216" y="277.0">LectSimpleFactory.PizzaStore</node>
+                <node x="315.0524621212122" y="119.0">LectSimpleFactory.CheesePizza</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="Factory.NJSlotProgressive" target="Factory.Slot">
-                  <point x="0.0" y="-25.5" />
-                  <point x="1381.5" y="292.0" />
-                  <point x="811.6111111111111" y="292.0" />
-                  <point x="91.11111111111109" y="136.0" />
+                <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.Pizza">
+                  <point x="-55.19999999999999" y="-14.5" />
+                  <point x="306.3227272727273" y="346.0" />
+                  <point x="0.0" y="346.0" />
+                  <point x="0.0" y="49.0" />
+                  <point x="263.3697443181819" y="49.0" />
+                  <point x="-36.363636363636374" y="14.5" />
                 </edge>
-                <edge source="Factory.NVSlotStore" target="Factory.SlotStore">
-                  <point x="0.0" y="-25.5" />
-                  <point x="570.0" y="536.0" />
-                  <point x="409.0" y="536.0" />
-                  <point x="71.0" y="36.5" />
+                <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.ClamPizza">
+                  <point x="-33.19999999999999" y="-14.5" />
+                  <point x="339.0727272727273" y="168.0" />
+                  <point x="240.05246212121222" y="168.0" />
+                  <point x="0.0" y="14.5" />
                 </edge>
-                <edge source="Factory.NVSlotStraight" target="Factory.Slot">
+                <edge source="LectSimpleFactory.PizzaStore" target="LectSimpleFactory.Pizza">
+                  <point x="-37.66666666666666" y="-14.5" />
+                  <point x="193.8873579545455" y="257.0" />
+                  <point x="12.552462121212216" y="257.0" />
+                  <point x="12.552462121212216" y="59.0" />
+                  <point x="270.6424715909092" y="59.0" />
+                  <point x="-29.090909090909065" y="14.5" />
+                </edge>
+                <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.Pizza">
+                  <point x="66.40000000000002" y="-14.5" />
+                  <point x="438.67272727272734" y="178.0" />
+                  <point x="592.5524621212123" y="178.0" />
+                  <point x="592.5524621212123" y="59.0" />
+                  <point x="336.09701704545466" y="59.0" />
+                  <point x="36.363636363636374" y="14.5" />
+                </edge>
+                <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.PizzaStore">
                   <point x="0.0" y="-14.5" />
-                  <point x="877.0" y="322.0" />
-                  <point x="743.2777777777778" y="322.0" />
-                  <point x="22.77777777777783" y="136.0" />
+                  <point x="361.5227272727273" y="326.0" />
+                  <point x="259.8040246212122" y="326.0" />
+                  <point x="28.25" y="14.5" />
                 </edge>
-                <edge source="Factory.WTSlotBonus" target="Factory.Slot">
+                <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.PepperoniPizza">
+                  <point x="-66.40000000000003" y="-14.5" />
+                  <point x="305.8727272727273" y="178.0" />
+                  <point x="94.05246212121222" y="178.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.VeggiePizza">
+                  <point x="33.19999999999999" y="-14.5" />
+                  <point x="405.4727272727273" y="168.0" />
+                  <point x="521.0524621212122" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.CheesePizza">
                   <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="136.0" />
+                  <point x="372.2727272727273" y="178.0" />
+                  <point x="377.5524621212122" y="178.0" />
+                  <point x="0.0" y="14.5" />
                 </edge>
-                <edge source="Factory.NVSlotBonus" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="410.5" y="312.0" />
-                  <point x="674.9444444444445" y="312.0" />
-                  <point x="-45.55555555555554" y="136.0" />
+                <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.SimplePizzaFactory">
+                  <point x="27.60000000000001" y="-14.5" />
+                  <point x="389.12272727272733" y="346.0" />
+                  <point x="400.2727272727273" y="346.0" />
+                  <point x="400.2727272727273" y="257.0" />
+                  <point x="393.0227272727273" y="257.0" />
+                  <point x="20.749999999999986" y="14.5" />
                 </edge>
-                <edge source="Factory.NJSlotStraight" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="565.0" y="322.0" />
-                  <point x="697.7222222222222" y="322.0" />
-                  <point x="-22.77777777777783" y="136.0" />
+                <edge source="LectSimpleFactory.PepperoniPizza" target="LectSimpleFactory.Pizza">
+                  <point x="-35.5" y="-14.5" />
+                  <point x="58.552462121212216" y="69.0" />
+                  <point x="277.9151988636365" y="69.0" />
+                  <point x="-21.818181818181813" y="14.5" />
                 </edge>
-                <edge source="Factory.NJSlotBonus" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="1031.5" y="312.0" />
-                  <point x="766.0555555555555" y="312.0" />
-                  <point x="45.55555555555554" y="136.0" />
+                <edge source="LectSimpleFactory.ClamPizza" target="LectSimpleFactory.Pizza">
+                  <point x="-27.5" y="-14.5" />
+                  <point x="212.55246212121222" y="89.0" />
+                  <point x="292.46065340909104" y="89.0" />
+                  <point x="-7.272727272727252" y="14.5" />
                 </edge>
-                <edge source="Factory.WTSlotStore" target="Factory.SlotStore">
-                  <point x="0.0" y="-25.5" />
-                  <point x="106.0" y="536.0" />
-                  <point x="267.0" y="536.0" />
-                  <point x="-71.0" y="36.5" />
+                <edge source="LectSimpleFactory.CheesePizza" target="LectSimpleFactory.Pizza">
+                  <point x="-31.25" y="-14.5" />
+                  <point x="346.3024621212122" y="99.0" />
+                  <point x="307.00610795454554" y="99.0" />
+                  <point x="7.272727272727252" y="14.5" />
                 </edge>
-                <edge source="Factory.WTSlotProgressive" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="1198.5" y="302.0" />
-                  <point x="788.8333333333333" y="302.0" />
-                  <point x="68.33333333333326" y="136.0" />
+                <edge source="LectSimpleFactory.VeggiePizza" target="LectSimpleFactory.Pizza">
+                  <point x="-30.5" y="-14.5" />
+                  <point x="490.5524621212122" y="79.0" />
+                  <point x="321.5515625000001" y="79.0" />
+                  <point x="21.818181818181813" y="14.5" />
                 </edge>
-                <edge source="Factory.NVSlotProgressive" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="243.5" y="302.0" />
-                  <point x="652.1666666666666" y="302.0" />
-                  <point x="-68.33333333333337" y="136.0" />
-                </edge>
-                <edge source="Factory.WTSlotStraight" target="Factory.Slot">
-                  <point x="0.0" y="-14.5" />
-                  <point x="71.0" y="292.0" />
-                  <point x="629.3888888888889" y="292.0" />
-                  <point x="-91.11111111111109" y="136.0" />
-                </edge>
-                <edge source="Factory.NJSlotStore" target="Factory.SlotStore">
-                  <point x="0.0" y="-25.5" />
-                  <point x="0.0" y="36.5" />
+                <edge source="LectSimpleFactory.PizzaStore" target="LectSimpleFactory.SimplePizzaFactory">
+                  <point x="37.666666666666686" y="-14.5" />
+                  <point x="269.2206912878788" y="257.0" />
+                  <point x="351.5227272727273" y="257.0" />
+                  <point x="-20.75" y="14.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.235455487115084" x="1006.2603375864433" y="502.2603375864433" />
-              <SelectedNodes>
-                <node>Factory.NJSlotProgressive</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Methods</Category>
-                <Category>Fields</Category>
-              </Categories>
+              <settings layout="Hierarchic Group" zoom="1.0" x="296.5" y="197.5" />
+              <SelectedNodes />
+              <Categories />
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NJSlotProgressive.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Factory/NJSlotProgressive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SlotStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Factory/SlotStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -260,6 +188,14 @@
         <option value="$PROJECT_DIR$/src/Decorator/RealStar.java" />
         <option value="$PROJECT_DIR$/src/Factory/TestSlots.java" />
         <option value="$PROJECT_DIR$/src/Factory/NJSlotProgressive.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/ClamPizza.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/PepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/PizzaTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/VeggiePizza.java" />
+        <option value="$PROJECT_DIR$/src/LectSimpleFactory/Pizza.java" />
       </list>
     </option>
   </component>
@@ -270,7 +206,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="14" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
@@ -289,10 +226,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,21 +245,25 @@
               <item name="LAB3-decorator-factory" type="b2602c69:ProjectViewProjectNode" />
               <item name="LAB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+              <item name="LectSimpleFactory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/LectSimpleFactory" />
+      <recent name="$PROJECT_DIR$/src/LectFactory" />
       <recent name="$PROJECT_DIR$/src/Factory" />
     </key>
   </component>
@@ -480,25 +420,25 @@
       <updated>1517239651910</updated>
       <workItem from="1517239653460" duration="3745000" />
       <workItem from="1517368424013" duration="1392000" />
+      <workItem from="1517446007814" duration="663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5137000" />
+    <option name="totallyTimeSpent" value="7434000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1400" height="837" extended-state="0" />
+    <frame x="14" y="30" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -517,6 +457,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -561,76 +502,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Decorator/BallReds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/BallBlue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#97#98#0" expanded="false" />
-            <element signature="e#129#130#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/BallSilver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/Ribbons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#95#96#0" expanded="false" />
-            <element signature="e#127#128#0" expanded="false" />
-            <element signature="e#165#166#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/Lights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Decorator/LEDs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="13" column="9" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,32 +556,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40" lean-forward="false" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Decorator/Ribbons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="10" column="16" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#95#96#0" expanded="false" />
-            <element signature="e#127#128#0" expanded="false" />
-            <element signature="e#165#166#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Decorator/Star.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,11 +588,11 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.5891356667976237" x="1047.0397697478477" y="330.79897312818844" />
+          <settings layout="Hierarchic Group" zoom="0.5891356667976237" x="1047.0" y="331.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Methods</Category>
             <Category>Fields</Category>
+            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -759,12 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#97#98#0" expanded="false" />
-            <element signature="e#129#130#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-            <element signature="e#227#228#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -772,12 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,12 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,12 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -851,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -899,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -907,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,23 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Factory/NVSlotBonus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Factory/SlotStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,6 +766,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="27" column="52" lean-forward="true" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factory/NVSlotBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factory/NJSlotProgressive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Factory/SlotStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Decorator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Decorator</OriginalElement>
+          <nodes>
+            <node x="916.0" y="212.0">Decorator.TreeDecorator</node>
+            <node x="916.0" y="422.0">Decorator.BallSilver</node>
+            <node x="229.0" y="422.0">Decorator.BallReds</node>
+            <node x="1832.0" y="422.0">Decorator.BallBlue</node>
+            <node x="1603.0" y="422.0">Decorator.Ribbons</node>
+            <node x="687.0" y="422.0">Decorator.Star</node>
+            <node x="1374.0" y="422.0">Decorator.Ruffles</node>
+            <node x="458.0" y="422.0">Decorator.LEDs</node>
+            <node x="0.0" y="540.0">Decorator.Test_tree</node>
+            <node x="1658.0" y="256.5">Decorator.DouglasFir</node>
+            <node x="1145.0" y="422.0">Decorator.RealStar</node>
+            <node x="1145.0" y="256.5">Decorator.BalsumFir</node>
+            <node x="0.0" y="422.0">Decorator.Lights</node>
+            <node x="1487.0" y="256.5">Decorator.FraserFir</node>
+            <node x="1316.0" y="256.5">Decorator.BlueSpruce</node>
+            <node x="1287.0" y="0.0">Decorator.Tree</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Decorator.TreeDecorator" target="Decorator.Tree">
+              <point x="0.0" y="-70.0" />
+              <point x="1020.5" y="182.0" />
+              <point x="1307.9" y="182.0" />
+              <point x="-83.59999999999991" y="81.0" />
+            </edge>
+            <edge source="Decorator.BlueSpruce" target="Decorator.Tree">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="Decorator.Star" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="791.5" y="402.0" />
+              <point x="997.2777777777778" y="402.0" />
+              <point x="-23.22222222222217" y="70.0" />
+            </edge>
+            <edge source="Decorator.Ruffles" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="1478.5" y="392.0" />
+              <point x="1066.9444444444443" y="392.0" />
+              <point x="46.44444444444434" y="70.0" />
+            </edge>
+            <edge source="Decorator.LEDs" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="562.5" y="392.0" />
+              <point x="974.0555555555555" y="392.0" />
+              <point x="-46.44444444444446" y="70.0" />
+            </edge>
+            <edge source="Decorator.RealStar" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="1249.5" y="402.0" />
+              <point x="1043.7222222222222" y="402.0" />
+              <point x="23.22222222222217" y="70.0" />
+            </edge>
+            <edge source="Decorator.Ribbons" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="1707.5" y="382.0" />
+              <point x="1090.1666666666667" y="382.0" />
+              <point x="69.66666666666674" y="70.0" />
+            </edge>
+            <edge source="Decorator.BallBlue" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="1936.5" y="372.0" />
+              <point x="1113.388888888889" y="372.0" />
+              <point x="92.88888888888891" y="70.0" />
+            </edge>
+            <edge source="Decorator.BalsumFir" target="Decorator.Tree">
+              <point x="0.0" y="-25.5" />
+              <point x="1220.5" y="192.0" />
+              <point x="1349.7" y="192.0" />
+              <point x="-41.799999999999955" y="81.0" />
+            </edge>
+            <edge source="Decorator.DouglasFir" target="Decorator.Tree">
+              <point x="0.0" y="-25.5" />
+              <point x="1733.5" y="182.0" />
+              <point x="1475.1" y="182.0" />
+              <point x="83.59999999999991" y="81.0" />
+            </edge>
+            <edge source="Decorator.Lights" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="104.5" y="372.0" />
+              <point x="927.6111111111111" y="372.0" />
+              <point x="-92.88888888888891" y="70.0" />
+            </edge>
+            <edge source="Decorator.BallSilver" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="Decorator.BallReds" target="Decorator.TreeDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="333.5" y="382.0" />
+              <point x="950.8333333333334" y="382.0" />
+              <point x="-69.66666666666663" y="70.0" />
+            </edge>
+            <edge source="Decorator.FraserFir" target="Decorator.Tree">
+              <point x="0.0" y="-25.5" />
+              <point x="1562.5" y="192.0" />
+              <point x="1433.3" y="192.0" />
+              <point x="41.799999999999955" y="81.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7086033677342566" x="521.0" y="228.0" />
+          <SelectedNodes>
+            <node>Decorator.RealStar</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Decorator/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1069,24 +1011,241 @@
               <point x="0.0" y="36.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.235455487115084" x="1006.2603375864433" y="502.2603375864433" />
+          <settings layout="Hierarchic Group" zoom="1.0484414617820077" x="465.0" y="143.0" />
           <SelectedNodes>
-            <node>Factory.NJSlotProgressive</node>
+            <node>Factory.Slot</node>
           </SelectedNodes>
           <Categories>
-            <Category>Methods</Category>
             <Category>Fields</Category>
+            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Factory/NJSlotProgressive.java">
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/PizzaTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/LectSimpleFactory.PizzaTestDrive">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>LectSimpleFactory.PizzaTestDrive</OriginalElement>
+          <nodes>
+            <node x="" y="">LectSimpleFactory.PizzaTestDrive</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/PepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/ClamPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/VeggiePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LectSimpleFactory/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Decorator/Star.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/Chieh/Desktop/Year 4 Semester 2/SW Architecture/lect03/LAB/src/LectSimpleFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/LectSimpleFactory</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="525.0" y="356.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/LectSimpleFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>LectSimpleFactory</OriginalElement>
+          <nodes>
+            <node x="23.052462121212216" y="119.0">LectSimpleFactory.PepperoniPizza</node>
+            <node x="259.7333806818183" y="0.0">LectSimpleFactory.Pizza</node>
+            <node x="185.05246212121222" y="119.0">LectSimpleFactory.ClamPizza</node>
+            <node x="289.2727272727273" y="198.0">LectSimpleFactory.SimplePizzaFactory</node>
+            <node x="460.0524621212122" y="119.0">LectSimpleFactory.VeggiePizza</node>
+            <node x="292.5227272727273" y="366.0">LectSimpleFactory.PizzaTestDrive</node>
+            <node x="175.05402462121216" y="277.0">LectSimpleFactory.PizzaStore</node>
+            <node x="315.0524621212122" y="119.0">LectSimpleFactory.CheesePizza</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.Pizza">
+              <point x="-55.19999999999999" y="-14.5" />
+              <point x="306.3227272727273" y="346.0" />
+              <point x="0.0" y="346.0" />
+              <point x="0.0" y="49.0" />
+              <point x="263.3697443181819" y="49.0" />
+              <point x="-36.363636363636374" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.ClamPizza">
+              <point x="-33.19999999999999" y="-14.5" />
+              <point x="339.0727272727273" y="168.0" />
+              <point x="240.05246212121222" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.PizzaStore" target="LectSimpleFactory.Pizza">
+              <point x="-37.66666666666666" y="-14.5" />
+              <point x="193.8873579545455" y="257.0" />
+              <point x="12.552462121212216" y="257.0" />
+              <point x="12.552462121212216" y="59.0" />
+              <point x="270.6424715909092" y="59.0" />
+              <point x="-29.090909090909065" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.Pizza">
+              <point x="66.40000000000002" y="-14.5" />
+              <point x="438.67272727272734" y="178.0" />
+              <point x="592.5524621212123" y="178.0" />
+              <point x="592.5524621212123" y="59.0" />
+              <point x="336.09701704545466" y="59.0" />
+              <point x="36.363636363636374" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.PizzaStore">
+              <point x="0.0" y="-14.5" />
+              <point x="361.5227272727273" y="326.0" />
+              <point x="259.8040246212122" y="326.0" />
+              <point x="28.25" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.PepperoniPizza">
+              <point x="-66.40000000000003" y="-14.5" />
+              <point x="305.8727272727273" y="178.0" />
+              <point x="94.05246212121222" y="178.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.VeggiePizza">
+              <point x="33.19999999999999" y="-14.5" />
+              <point x="405.4727272727273" y="168.0" />
+              <point x="521.0524621212122" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.SimplePizzaFactory" target="LectSimpleFactory.CheesePizza">
+              <point x="0.0" y="-14.5" />
+              <point x="372.2727272727273" y="178.0" />
+              <point x="377.5524621212122" y="178.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.PizzaTestDrive" target="LectSimpleFactory.SimplePizzaFactory">
+              <point x="27.60000000000001" y="-14.5" />
+              <point x="389.12272727272733" y="346.0" />
+              <point x="400.2727272727273" y="346.0" />
+              <point x="400.2727272727273" y="257.0" />
+              <point x="393.0227272727273" y="257.0" />
+              <point x="20.749999999999986" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.PepperoniPizza" target="LectSimpleFactory.Pizza">
+              <point x="-35.5" y="-14.5" />
+              <point x="58.552462121212216" y="69.0" />
+              <point x="277.9151988636365" y="69.0" />
+              <point x="-21.818181818181813" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.ClamPizza" target="LectSimpleFactory.Pizza">
+              <point x="-27.5" y="-14.5" />
+              <point x="212.55246212121222" y="89.0" />
+              <point x="292.46065340909104" y="89.0" />
+              <point x="-7.272727272727252" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.CheesePizza" target="LectSimpleFactory.Pizza">
+              <point x="-31.25" y="-14.5" />
+              <point x="346.3024621212122" y="99.0" />
+              <point x="307.00610795454554" y="99.0" />
+              <point x="7.272727272727252" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.VeggiePizza" target="LectSimpleFactory.Pizza">
+              <point x="-30.5" y="-14.5" />
+              <point x="490.5524621212122" y="79.0" />
+              <point x="321.5515625000001" y="79.0" />
+              <point x="21.818181818181813" y="14.5" />
+            </edge>
+            <edge source="LectSimpleFactory.PizzaStore" target="LectSimpleFactory.SimplePizzaFactory">
+              <point x="37.666666666666686" y="-14.5" />
+              <point x="269.2206912878788" y="257.0" />
+              <point x="351.5227272727273" y="257.0" />
+              <point x="-20.75" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="296.5" y="197.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
